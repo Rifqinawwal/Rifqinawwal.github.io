@@ -1,0 +1,31 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #4cb9e7;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.card {
+  margin-top: 50px;
+}
+
+.card-header {
+  background-color: #4cb9e7; /* Ganti dengan warna header card yang diinginkan */
+  color: #fff; /* Ganti dengan warna teks header card yang kontras */
+}
+
+.btn-primary {
+  background-color: #4cb9e7; /* Ganti dengan warna tombol yang diinginkan */
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3; /* Ganti dengan warna tombol hover yang diinginkan */
+  border-color: #0056b3;
+}
